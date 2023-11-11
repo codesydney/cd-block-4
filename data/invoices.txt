@@ -1,0 +1,3 @@
+Invoice 1 | $100.00 | Customer A
+Invoice 2 | $200.00 | Customer B
+Invoice 3 | $300.00 | Customer B

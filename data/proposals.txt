@@ -1,0 +1,3 @@
+Proposal 1 | 01/01/2023 | $100 | Lead A
+Proposal 2 | 01/02/2023 | $100 | Lead B
+Proposal 3 | 01/03/2023 | $100 | Lead C

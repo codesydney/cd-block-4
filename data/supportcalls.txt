@@ -1,0 +1,4 @@
+Support Ticket 1 | 01/01/2023 | Customer A
+Support Ticket 2 | 01/02/2023 | Customer A
+Support Ticket 3 | 01/03/2023 | Customer B
+Support Ticket 4 | 01/04/2023 | Customer B
